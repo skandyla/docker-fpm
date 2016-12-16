@@ -8,7 +8,7 @@ Docker-fpm
 A docker image with **[FPM](https://github.com/jordansissel/fpm)** - Effing package management tool based on **[Debian](https://hub.docker.com/_/debian/)** Linux.  
 Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
 
-Repository name in Docker Hub: **[skandyla/wrk](https://hub.docker.com/r/skandyla/fpm/)**  
+Repository name in Docker Hub: **[skandyla/fpm](https://hub.docker.com/r/skandyla/fpm/)**  
 Published via **automated build** mechanism  
 
 
