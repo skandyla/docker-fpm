@@ -1,0 +1,9 @@
+sudo: required
+services:
+  - docker
+
+before_script:
+  - docker build -t fpm .
+
+script:
+  - docker run --rm fpm --help
