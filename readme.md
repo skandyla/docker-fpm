@@ -1,7 +1,8 @@
 Docker-fpm
 ============
 
-[![Build Status](https://travis-ci.org/skandyla/docker-fpm.svg?branch=master)](https://travis-ci.org/skandyla/docker-fpm)
+[![Build Status](https://travis-ci.org/skandyla/docker-fpm.svg?branch=master)](https://travis-ci.org/skandyla/docker-fpm)  
+[![](https://images.microbadger.com/badges/image/skandyla/fpm.svg)](https://microbadger.com/images/skandyla/fpm "Get your own image badge on microbadger.com")  
 
 ## Summary
 
