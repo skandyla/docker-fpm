@@ -3,7 +3,7 @@ MAINTAINER Sergey Kandyla <skandyla@gmail.com>
 
 RUN echo "===> Installing tools..."  && \
     apt-get -y update && \
-    apt-get -y install ruby ruby-dev rubygems build-essential autoconf libtool && \
+    apt-get -y install ruby ruby-dev rubygems build-essential autoconf libtool rpm && \
     \
     echo "===> Installing fpm..." && \
     gem install --no-ri --no-rdoc fpm && \
